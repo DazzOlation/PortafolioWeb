@@ -1,0 +1,75 @@
+.logo{
+    width: 30px;
+    height: 30px;
+}
+
+img.pfp{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.btn-info{
+    color: blueviolet;
+    background-color: whitesmoke;
+    border-color: black;
+    border-width: 3.5px;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.btn-info:hover{
+    color: black;
+    background-color: whitesmoke;
+    border-color: blueviolet;
+    border-width: 5px;
+}
+
+body{
+background-color: whitesmoke;
+color:blueviolet;
+}
+
+.nav-item:hover{
+    background-color:blueviolet;
+    scale:125%;
+    
+}
+
+p , div{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+h2{
+    color:black;
+    background-color: whitesmoke;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+
+.ocultar{
+    display: none;
+}
+
+.mostrar{
+    display: block;
+}
+
+.bi-instagram, .bi-github, .bi-linkedin{
+    font-size: 150px;
+    color:blueviolet;
+}
+
+.bi:hover{
+    scale: 110%;
+}
+
+.bi:visited{
+    color: black;
+}
